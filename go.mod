@@ -1,3 +1,3 @@
-module github.com/michaeltcoelho/testgomod
+module github.com/michaeltcoelho/testgomod/v2
 
 go 1.13
